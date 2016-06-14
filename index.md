@@ -1,2 +1,6 @@
+---
+layout: index
+---
+
 # Test
 test
