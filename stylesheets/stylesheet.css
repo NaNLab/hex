@@ -139,16 +139,9 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-p img {
+p img {    
   display: inline;
   margin: 0;
   padding: 0;
@@ -266,7 +259,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 700px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -422,4 +415,32 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+/*******************************************************************************
+Personnalisation
+*******************************************************************************/
+
+
+.centrer {text-align: center;}
+
+
+.box{
+    padding: 8px;
+	background-color: lavender;
+	border: solid 1px silver;
+	}
+
+.box h2 {
+    margin-top: 0px;
+}
+
+
+#gauche
+{
+    float: left;
+}
+#droite
+{
+    float: right;
 }
