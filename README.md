@@ -1,2 +1,2 @@
-# hex
-activité réseau autour du jeu de hex
+# Programmation réseaux
+activités autour du jeu de hex
