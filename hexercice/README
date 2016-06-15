@@ -1,0 +1,21 @@
+hexercice à trou
+================
+
+Compléter le fichier hexercice.py comme expliqué dans l'énoncé hexercice.html
+
+Pour lancer le programme, la syntaxe est :
+$ python3 hexercice.py client 10.13.37.223 Alice tablier 7
+
+où 10.13.37.223 est l'adresse du serveur contre lequel on souhaite jouer,
+Alice est notre nom et 7 est la taille du tablier. Avant le mot-clé tablier,
+on peut préciser les extensions supportées par le client.
+
+Sur le réseau du 8 juin, des serveurs sont disponible sur les machines suivantes (ce sont des « intelligences artificielles ») :
+  - hexai : 10.13.37.222
+  - hexbot : 10.13.37.223
+
+Pour quitter le programme en cas de problème, depuis la console de lancement,
+taper Ctrl+C ad lib.
+
+Le protocole SimpleHex est documenté dans le fichier simplehex.html
+
